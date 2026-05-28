@@ -1,3 +1,4 @@
+pip install gradio plotly pandas
 import os
 import pandas as pd
 import numpy as np
